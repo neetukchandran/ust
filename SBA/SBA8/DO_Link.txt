@@ -1,0 +1,1 @@
+http://makeseleniumeasy.com/2020/06/08/rest-assured-tutorial-29-how-to-create-pojo-classes-of-a-json-payload/
